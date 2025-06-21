@@ -1,10 +1,10 @@
-#Agrinho: festejando a conexão campo e cidade.
+# Agrinho: festejando a conexão campo e cidade.
 
 
 Bem-vindo(a)! Aqui você encontrará informações relevantes sobre diversos tópicos relacionados a agricultura. O site conta com uma série de elementos interativos, incluindo um pequeno labirinto. Espero que goste e aprenda coisas novas.
 
 
-###Tópicos explorados: 
+### Tópicos explorados: 
 - história da agricultura;
 - Agricultura de precisão;
 - Agricultura de precisão no Paraná;
@@ -22,10 +22,10 @@ Link do projeto de planejamento do site: https://www.figma.com/design/keSBtj59h5
 
 
 
-###Referências
+### Referências
 
 
-###Sites e artigos utilizados como fonte de pesquisa dos textos:
+### Sites e artigos utilizados como fonte de pesquisa dos textos:
 
 BARRETO, Alice Vitória Rodrigues et al. Qualidade do solo e a biotecnologia. In: Atena Editora. Ponta Grossa, PR, 2024. Disponível em: https://atenaeditora.com.br/catalogo/post/qualidade-do-solo-e-a-biotecnologia. Acesso em: 2 jun. 2025.
 
@@ -47,7 +47,7 @@ SEBRAE. Aplicações da biotecnologia na área animal. In: Portal Sebrae, [S. l.
 SISTEMA FAEP. Agricultura de precisão. Curitiba, 2021. Disponível em: https://www.sistemafaep.org.br/wp-content/uploads/2021/11/PR.0344-Agricultura-de-Precisa%CC%83o-1.pdf. Acesso em: 2 jun. 2025.
 
 
-###Sites de notícia e artigos utlizados no carrossel da seção "Agricultura de precisão no Paraná":
+### Sites de notícia e artigos utlizados no carrossel da seção "Agricultura de precisão no Paraná":
 
 5 FERRAMENTAS de gestão que o produtor rural deve conhecer. Agroslim, 19 maio 2020. Disponível em: https://www.agroslim.com.br/blog/5-ferramentas-de-gestao-que-o-produtor-rural-deve-conhecer/. Acesso em: 2 jun. 2025. Nota: O link original fornecido não pôde ser acessado. A referência apresentada baseia-se no resultado de busca mais relevante encontrado através do Google Search, que pode ter conteúdo similar.
 
@@ -66,6 +66,6 @@ SISTEMA FAEP. Comunicação. Sistema FAEP lança cartilha com seus cursos de mec
 SISTEMA FAEP. SENAR-PR coloca colégios agrícolas na era digital. Sistema FAEP, 4 out. 2023. Disponível em: https://www.sistemafaep.org.br/senar-pr-coloca-colegios-agricolas-na-era-digital/. Acesso em: 2 jun. 2025.
 
 
-###Plataforma utilizada para a montagem de todas as imagens do site, exceto as do menu-hambúrger:
+### Plataforma utilizada para a montagem de todas as imagens do site, exceto as do menu-hambúrger:
 
 CANVA. Canva. 2013. Disponível em: https://www.canva.com/. Acesso em: 21 jun. 2025.
