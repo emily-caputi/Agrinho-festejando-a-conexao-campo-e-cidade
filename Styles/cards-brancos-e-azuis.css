@@ -1,15 +1,16 @@
 .cards, .card-sozinho{
     display: flex;
     flex-direction: column;
-        justify-content: center;
+    justify-content: center;
     align-items: center;
     width: 100%;
-    margin: 0.5rem;
+    margin: 1rem;
     padding: 0 10px;
     min-height: 50px;
 }
 
 .card-conteudo {
+    justify-content: center;
     text-align: center;
     margin: 1rem;
     padding: 0.5rem;
@@ -25,10 +26,12 @@
 
 .card-azul{
     background-color: var(--cor-card-azul);
+    justify-content: center;
 }
 
 .card-branco{
-    background-color: var(--branco)
+    background-color: var(--branco);
+    justify-content: center;
 }
 
 .titulo-card, .texto-card{
