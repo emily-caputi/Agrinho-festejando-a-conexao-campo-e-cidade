@@ -1,15 +1,16 @@
 .conteudo-jogo{
-    display: grid;
-    grid-template-columns: 40% 60%;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 1rem;
 }
 
 .card-jogo{
     background-color: var(--branco);
     text-align: center;
     margin: 0.5rem;
-    margin-left: 1.5rem;
     padding: 0.5rem;
-    width: 80%;
+    width: 60%;
     border-radius: 30px;
     box-shadow: 0 10px 5px rgba(7, 161, 77, 0.329);
     min-height: 100px;
@@ -55,8 +56,8 @@
     box-shadow: 2px 4px 6px rgba(7, 161, 77, 0.329); 
     margin: 2rem auto;
     width: 95%;
-    max-width: 200px;
-    min-width: 50px;
+    max-width: 400px;
+    min-width: 250px;
     aspect-ratio: 1 / 1; 
 }
 
@@ -127,6 +128,12 @@
 } 
 
 @media screen and (min-width:1024px){
+
+    .conteudo-jogo{
+        display: grid;
+        grid-template-columns: 40% 60%;
+    }
+
     .card-jogo{
         margin: 2rem;
         margin-left: 5rem;
@@ -149,7 +156,7 @@
     }
 
     .labirinto-completo {
-        max-width: 400px;
+        max-width: 600px;
     }
 
 }
@@ -157,6 +164,7 @@
 @media screen and (min-width:1728px){
     .card-jogo{
         padding: 2rem;
+        min-height: 350px;
     }
 
     .titulo-card-jogo{
@@ -173,7 +181,7 @@
     }
 
     .labirinto-completo {
-        max-width: 700px;
+        max-width: 800px;
     }
 
 }

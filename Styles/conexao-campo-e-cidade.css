@@ -6,14 +6,15 @@
     margin: 1rem auto;
 }
 
-.card-conexao-corpo{
+.card-conexao-corpo-mobile, .card-conexao-corpo-mobile-imagem, .card-conexao-corpo{
     display: flex;
     background-color: var(--branco);
     justify-content: center;
     padding: 1rem;
     border-radius: 30px;
     box-shadow: 0 10px 5px rgba(7, 161, 77, 0.329);
-    width: 70%;
+    width: 60%;
+    margin: 1rem;
 }
 
 .card-conexao-corpo:hover {
@@ -42,17 +43,39 @@
 .card-paragrafo{
     font-size: 12px;
     font-weight: 400;
-    text-align: left;
+    text-align: center;
     color: var(--cor-texto);
     padding: 0 2rem 0 0;
 }
 
-.imagem-conexao{
-    width: 35%;
-    height: 40%;
+.card-conexao-corpo-mobile-imagem{
+    width: 30%;
+}
+
+.card-imagem-conexao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.imagem-conexao-mobile{
+    width: 80%;
+    border-radius: 30px;
+}
+
+.card-conexao-corpo{
+    display: none;
 }
 
 @media screen and (min-width:1024px){
+
+    .card-conexao-corpo-mobile, .card-conexao-corpo-mobile-imagem{
+        display: none;
+    }
+
+    .card-conexao-corpo{
+        display: block; 
+    }
 
     .card-conexao-container{
         margin: 2.5rem auto;
@@ -68,12 +91,12 @@
     }
 
     .card__conexao-texto-imagem{
-        padding: 1rem 2.5rem;
+        padding: 1rem 1.5rem;
     }
 
     .card-paragrafo{
         font-size: 18px;
-        padding: 0 9rem 0 0;
+        padding: 0 5rem 0 0;
     }
 
     .imagem-conexao{
