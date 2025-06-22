@@ -4,7 +4,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    height: 100vh;
+    height: 20vh;
 }
 
 .carrossel__2-conteudo{
@@ -73,6 +73,10 @@
 @media screen and (min-width:1024px){
 
     .carrossel__fundo{
+        height: 30vh;
+    }
+
+    .carrossel__fundo{
         padding-bottom: 15rem;
     }
 
@@ -100,6 +104,11 @@
 }
 
 @media screen and (min-width:1728px){
+
+    .carrossel__fundo{
+        height: 50vh;
+    }
+
     .titulo{
         font-size: 36px;
     }

@@ -85,17 +85,13 @@
     }
 
     .card-abertura__imagem{
-        max-width: 140%; 
+        max-width: 70%; 
         right: -20%; 
         bottom: 5%; 
     } 
 }
 
 @media screen and (min-width:1728px){
-
-    .card-abertura__titulo{
-        width: 100%;
-    }
 
     .card-abertura__texto{
        font-size: 22px;
