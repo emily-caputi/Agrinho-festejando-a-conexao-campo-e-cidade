@@ -1,11 +1,11 @@
-@import url(/Styles/header.css);
-@import url(/Styles/seção-abertura.css);
-@import url(/Styles/historia-da-agricultura.css);
-@import url(/Styles/cards-brancos-e-azuis.css);
-@import url(/Styles/agricultura-de-precisão-no-Paraná.css);
-@import url(/Styles/conexao-campo-e-cidade.css);
-@import url(/Styles/jogo.css);
-@import url(/Styles/rodapé.css);
+@import url(Styles/header.css);
+@import url(Styles/seção-abertura.css);
+@import url(Styles/historia-da-agricultura.css);
+@import url(Styles/cards-brancos-e-azuis.css);
+@import url(Styles/agricultura-de-precisão-no-Paraná.css);
+@import url(Styles/conexao-campo-e-cidade.css);
+@import url(Styles/jogo.css);
+@import url(Styles/rodapé.css);
 
 :root{
     --cor-de-fundo: #CAFFCA;
